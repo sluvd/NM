@@ -1,2 +1,4 @@
 # NM
-NM project Discussion 
+Numerical Methods project Discussion 
+
+Guys i made this 
