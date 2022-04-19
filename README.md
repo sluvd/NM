@@ -8,6 +8,12 @@ then we have to annotate at least 300 picture
 
 annotation in short: 
 1-but any raw image in a software
-2-choose the annotation type (polygon in our case)
+2-choose the annotation type 
 3-mark the desired area (like cracks or potholes)
-4-export as JSON file
+4-export as XML file
+ to do this task
+ you have to use this software https://github.com/tzutalin/labelImg
+ 
+ install it
+ have it working and contact me by whatsapp to direct you to the next step
+ 
